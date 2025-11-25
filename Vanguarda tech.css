@@ -1,0 +1,21 @@
+h1{
+  border:solid;
+  border-radius: 10px;
+  text-align: center;
+}
+img{
+  border-radius: 100px;
+}
+
+body{
+  background: white;
+}
+
+#img1{
+  color: black;
+  font-size: 35px;
+}
+
+#chatgpt{
+  border-radius: 25px;
+}
